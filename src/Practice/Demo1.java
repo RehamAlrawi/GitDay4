@@ -5,5 +5,6 @@ public class Demo1 {
 		System.out.println("test.....");
 	}
 	int age = 0;
+	String Name = "Reham";
 
 }
